@@ -1,3 +1,2 @@
 # Covid19-deaths-africa-2022-analysis
-My first repo!
-This repo is created for the sake of my project in Excel Workshop.
+https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/total_deaths_per_million.csv 
