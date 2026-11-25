@@ -24,5 +24,5 @@ To capture both baseline burden and within-year dynamics across all 365 days of 
 #### Highlights & Analytical Interpretation
 - **Baseline vs. Within-Year Net Change:** Pairing side-by-side clustered column charts for **Start of 2022 (Jan 1) Deaths per Million** and **Net Change in Reported COVID-19 Deaths per Million (2022)** reveals an important distinction between cumulative burden and 2022 net velocity.
 - **Sudan vs. Egypt & Kenya:** Although Egypt entered and exited 2022 with a higher cumulative rate than Sudan (`220.23` vs. `101.13` per million), Sudan experienced a larger net increase during 2022 (`+34.34` vs. `+28.69` per million), while Kenya showed the smallest net rise (`+6.06` per million). South Africa remained highest on both metrics (`1455.20` start; `+189.09` net change).
-- ![COVID-19 Deaths Comparison](images/deaths_comparison_charts.png)
+![COVID-19 Deaths Comparison](deaths_comparison_charts.png)
 - **Reporting Context:** Periodic step-like jumps following zero-change days ("staircase" reporting pattern) indicate batch or delayed reporting updates rather than uniform daily counts, which should be considered when interpreting short-term shifts.
