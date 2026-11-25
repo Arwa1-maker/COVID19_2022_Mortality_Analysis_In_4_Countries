@@ -1,4 +1,4 @@
-# Covid19-deaths-africa-2022-analysis
+# COVID19_2022_Mortality_Analysis_In_4_Countries
 https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/total_deaths_per_million.csv 
 ### Data Quality & Cleaning Notes (2022)
 - **Scope:** Filtered `total_deaths_per_million` across 2022 (365 daily records) for **Sudan**, **Egypt**, **Kenya**, and **South Africa**.
