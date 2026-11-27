@@ -27,5 +27,5 @@ To capture both baseline burden and within-year dynamics across all 365 days of 
 - **Sudan vs. Egypt & Kenya:** Although Egypt entered and exited 2022 with a higher cumulative rate than Sudan (`220.23` vs. `101.13` per million), Sudan experienced a larger net increase during 2022 (`+34.34` vs. `+28.69` per million), while Kenya showed the smallest net rise (`+6.06` per million). South Africa remained highest on both metrics (`1455.20` start; `+189.09` net change).
 
 ![COVID-19 Deaths Comparison](deaths_comparison_charts.png)
-- **Percentage growth of death per millions in each country was calculated, with Sudan showing the highest percentage with 51% increase in the annual deaths per millions in 2022**
+- **Percentage growth of deaths per million in each country was calculated, with Sudan showing the highest percentage with 51% increase in the annual deaths per million in 2022**
 - **Reporting Context:** Periodic step-like jumps following zero-change days ("staircase" reporting pattern) indicate batch or delayed reporting updates rather than uniform daily counts, which should be considered when interpreting short-term shifts.
