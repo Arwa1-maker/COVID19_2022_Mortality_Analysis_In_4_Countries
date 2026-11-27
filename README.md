@@ -30,4 +30,6 @@ To capture both baseline burden and within-year dynamics across all 365 days of 
 #### Percentage Growth of deaths Analysis
 - **Percentage growth of deaths per million in each country was calculated, with Sudan showing the highest percentage with 51% increase in the annual deaths per million in 2022**
 - ![Percentage Growth of deaths Analysis](percentage_growth.png)
+#### **Staircase pattern**
+- Periodic staircase pattern was recognize, and a 7 day moving average chart was made to notice if it would smoothen the sharp periodic pattern noted in the daily differences chart. And Indeed, 7 day moving average demonstrates a smoothen pattern.
 - **Reporting Context:** Periodic step-like jumps following zero-change days ("staircase" reporting pattern) indicate batch or delayed reporting updates rather than uniform daily counts, which should be considered when interpreting short-term shifts.
